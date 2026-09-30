@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "emil-kowalski-skills",
+  "description": "Emil Kowalski's design-engineering skills, packaged as an installable Claude Code plugin.",
+  "owner": {
+    "name": "metzgerwebsites",
+    "url": "https://github.com/metzgerwebsites"
+  },
+  "plugins": [
+    {
+      "name": "emil-kowalski-skills",
+      "source": "./",
+      "description": "Skills for designers and engineers: animation, motion review and audits, Apple-style design, mobile-native web fixes, Sonner, UI library picks, prototyping, and modern Swift.",
+      "category": "design"
+    }
+  ]
+}

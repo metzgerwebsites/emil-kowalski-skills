@@ -1,0 +1,20 @@
+{
+  "name": "emil-kowalski-skills",
+  "description": "Emil Kowalski's skills for designers and engineers: animation, motion review and audits, Apple-style design, mobile-native web fixes, Sonner, UI library picks, prototyping, and modern Swift.",
+  "author": {
+    "name": "Emil Kowalski",
+    "url": "https://emilkowal.ski"
+  },
+  "homepage": "https://github.com/emilkowalski/skills",
+  "repository": "https://github.com/metzgerwebsites/emil-kowalski-skills",
+  "license": "MIT",
+  "keywords": [
+    "design-engineering",
+    "animation",
+    "motion",
+    "ui",
+    "react-native",
+    "swift",
+    "skills"
+  ]
+}
